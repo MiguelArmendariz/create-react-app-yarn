@@ -1,6 +1,6 @@
-# react-app-template-npm
+# react-app-template-yarn
 This project is a basic template for a react application using webpack, and
-npm as package manager. That's why the repository name has npm at the end.
+YARN as package manager. That's why the repository name has YARN at the end.
 
 ## Content
 * Webpack configuration for local and prebuild.
@@ -23,9 +23,9 @@ import styles from 'FileName.module.scss';
 
 #### Recommendations
 
-I personally like to use **npm-check** package because it offers a way to visualize which package to update and it highlights
+I personally like to use **yarn-check** package because it offers a way to visualize which package to update and it highlights
 if the package update is a patch, minor update, potentially breaker, etc.
 
-You can use the command **npm-check -u** to see it this way and **select only** the packages you want to update.
+You can use the command **yarn-check -u** to see it this way and **select only** the packages you want to update.
 
 Feel free to contact me if you have suggestions/requests.
